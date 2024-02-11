@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine learning and large language models
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on optimizing LLMs
-- 📫 How to reach me : vinayakcse@gmail.com
+- 📫 How to reach me : 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
